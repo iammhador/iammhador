@@ -28,10 +28,6 @@
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
-    <div align=center>
-        <a href="https://www.linkedin.com/in/iammhador/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://stackoverflow.com/users/19714929/iammhador"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-    </div>
     <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
@@ -67,9 +63,3 @@
         <p>Loading</p>
     </div>
 </div>
-
-------
-
-Credit: [Ahmed Fathy](https://github.com/AhmedFathyDev)
-
-Last edited on: 31/01/2022
