@@ -15,9 +15,9 @@
 
 - 🤝 I’m available for internship.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning Next JS, Redux, Typescript.
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc](https://dev.to/iammhador)
+- 📝 I regularly write articles on [https://dev.to/iammhador]
 
 - 💬 Ask me about **Mern Stack Development & Front-end Web Development**
 
