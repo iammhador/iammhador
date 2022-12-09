@@ -9,9 +9,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently not working anywhere. Looking for internship/ part time job.
+- 🔭 I’m currently not working any field. Looking for internship/ part time job.
 
-- 🌱 I’m currently Working on Mern Stack (MongoDB, Express, React, Next JS)
+- 🌱 I’m currently Working on Mern Stack project (MongoDB, Express, React, Next JS)
 
 - 🤝 I’m available for internship.
 
