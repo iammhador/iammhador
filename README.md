@@ -7,7 +7,6 @@
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/iammhador/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-      
         <a href="https://stackoverflow.com/users/19714929/iammhador"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
     </div>
     <div align=left>
