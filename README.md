@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mehedy%20Hasan%20Ador&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<div align="center"> 
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17,18,19&height=200&section=header&text=Mehedy%20Hasan%20Ador&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" /> 
 </div>
 
 <div align="center">
@@ -65,7 +65,7 @@
 
 **Core Technologies:** JavaScript (ES6+), TypeScript, React.js, Next.js, Redux Toolkit  
 **Styling & UI:** Tailwind CSS, Bootstrap, Styled Components, CSS3, HTML5  
-**State Management:** Redux, Context API, Zustand
+**State Management:** Redux, Context API
 
 ### ⚙️ Backend & Architecture
 
@@ -73,8 +73,8 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,mongodb,prisma" alt="Backend Skills" />
 </div>
 
-**Runtime & Frameworks:** Node.js, Express.js, RESTful APIs, GraphQL  
-**Databases:** MySQL, PostgreSQL, MongoDB, Redis  
+**Runtime & Frameworks:** Node.js, Express.js, RESTful APIs  
+**Databases:** MySQL, PostgreSQL, MongoDB  
 **ORMs & Tools:** Prisma, Mongoose, Database Design & Optimization
 
 ### 🔧 DevOps & Tools
@@ -84,13 +84,12 @@
 </div>
 
 **Version Control:** Git, GitHub, GitLab  
-**Development Tools:** VS Code, Postman, Figma, Chrome DevTools  
-**Testing:** Jest, Cypress, Unit & Integration Testing
+**Development Tools:** VS Code, Postman, Figma, Chrome DevTools
 
 ### 📊 Currently Exploring
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,bash" alt="Learning" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,bash" alt="Learning" />
 </div>
 
 **Cloud & DevOps:** Docker, Kubernetes, AWS, CI/CD Pipelines  
@@ -263,20 +262,10 @@
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iammhador/iammhador/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Coding+isn't+merely+writing+code...;It's+an+emotion+that+requires+diving+deep;to+truly+understand+and+feel." alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <h3>💫 "The best code is not just functional, but clean, maintainable, and scalable."</h3>
-  <p><strong>⭐️ From <a href="https://github.com/iammhador">iammhador</a> with ❤️ | Let's build something meaningful together! 🚀</strong></p>
-  <p><em>🌱 Driven by curiosity, long-term thinking, and purposeful craft</em></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17,18,19&height=100&section=footer" />
 </div>
