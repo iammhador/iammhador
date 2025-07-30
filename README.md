@@ -6,22 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Frontend-Driven+Software+Developer+%F0%9F%9A%80;Backend+Architecture+Enthusiast+%E2%9A%99%EF%B8%8F;DevOps+%26+System+Design+Explorer+%F0%9F%94%A7;Open+Source+Contributor+%F0%9F%8C%9F;Building+LazyCLI+%26+Real-World+Solutions+%F0%9F%92%A1" alt="Typing Animation" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iammhador&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/iammhador?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/iammhador?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iammhador&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🎯 About Me
 
 <img align="right" alt="Coding GIF" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
