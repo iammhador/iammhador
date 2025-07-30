@@ -1,40 +1,282 @@
-<h1 align="center">Hi 👋, I'm Mehedy Hasan Ador</h1>
-<h3 align="center">A passionate mern developer from Bangladesh</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mehedy%20Hasan%20Ador&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iammhador&label=Profile%20views&color=0e75b6&style=flat" alt="iammhador" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Frontend-Driven+Software+Developer+%F0%9F%9A%80;Backend+Architecture+Enthusiast+%E2%9A%99%EF%B8%8F;DevOps+%26+System+Design+Explorer+%F0%9F%94%A7;Open+Source+Contributor+%F0%9F%8C%9F;Building+LazyCLI+%26+Real-World+Solutions+%F0%9F%92%A1" alt="Typing Animation" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammhador" alt="iammhador" /></a> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iammhador&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/iammhador?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/iammhador?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
+</div>
 
-- 🌱 I’m currently learning **Next JS, Mongoose, Typescript**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://iammhador.netlify.app/](https://iammhador.netlify.app/)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iammhador&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
 
-- 📝 I regularly write articles on [https://dev.to/iammhador](https://dev.to/iammhador)
+---
 
-- 💬 Ask me about **react, javascript, mongoose, typescript**
+## 🎯 About Me
 
-- 📫 How to reach me **iammhador@gmail.com**
+<img align="right" alt="Coding GIF" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1SQe-AFSe54gc3WQtGDyMUGdw5SgIjXFD/view?usp=sharing)
+👋 **Frontend-Driven Software Developer** with a deep passion for backend architecture and DevOps practices
 
-- ⚡ Fun fact **I'm friendly and positive person**
+🚀 **My Philosophy:** Solving complex problems with simple and effective solutions while understanding the deeper fundamentals of how systems operate at scale.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/iammhador" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="iammhador" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iammhador" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iammhador" height="30" width="40" /></a>
-<a href="https://fb.com/iammhador" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iammhador" height="30" width="40" /></a>
-<a href="https://medium.com/@iammhador" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iammhador" height="30" width="40" /></a>
-</p>
+💼 **Experience & Impact:**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 🎓 **EdTech Platforms** - Building educational solutions that make learning accessible and engaging
+- 🛒 **eCommerce Systems** - Creating seamless shopping experiences with robust backend infrastructure
+- 👥 **User-End Platforms** - Developing intuitive interfaces that prioritize user experience
+- 🤝 **Collaborative Development** - Contributing both individually and as part of dynamic, cross-functional teams
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/iammhador"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iammhador" /></a><a href="https://ko-fi.com/iammhador"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="iammhador" /></a></p><br><br>
+🔧 **Current Focus:**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iammhador&show_icons=true&locale=en&layout=compact" alt="iammhador" /></p>
+- 🏗️ **System Architecture** - Diving deep into distributed systems and microservices architecture
+- ⚙️ **DevOps Workflows** - Streamlining CI/CD pipelines and deployment automation
+- 📚 **Core Programming Concepts** - Strengthening algorithmic thinking and design patterns
+- 🛠️ **Developer Tools** - Building automation solutions like **LazyCLI** to boost productivity
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iammhador&show_icons=true&locale=en" alt="iammhador" /></p>
+💡 **What Drives Me:**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iammhador&" alt="iammhador" /></p>
+- 🧠 **Curiosity** - Always asking "how" and "why" to understand the underlying mechanics
+- 🎯 **Long-term Thinking** - Building for sustainability, scalability, and maintainability
+- ✨ **Clean Code** - Writing maintainable, functional, and scalable solutions that stand the test of time
+- 🌱 **Lifelong Learning** - Constantly exploring new tools, technologies, and methodologies
+- 🎨 **Purpose & Clarity** - Solving real-world problems with intentional craft and meaningful impact
+
+<br clear="both" />
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+### 🎨 Frontend Mastery
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,html,css,tailwind,bootstrap" alt="Frontend Skills" />
+</div>
+
+**Core Technologies:** JavaScript (ES6+), TypeScript, React.js, Next.js, Redux Toolkit  
+**Styling & UI:** Tailwind CSS, Bootstrap, Styled Components, CSS3, HTML5  
+**State Management:** Redux, Context API, Zustand
+
+### ⚙️ Backend & Architecture
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,mongodb,prisma" alt="Backend Skills" />
+</div>
+
+**Runtime & Frameworks:** Node.js, Express.js, RESTful APIs, GraphQL  
+**Databases:** MySQL, PostgreSQL, MongoDB, Redis  
+**ORMs & Tools:** Prisma, Mongoose, Database Design & Optimization
+
+### 🔧 DevOps & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="DevOps & Tools" />
+</div>
+
+**Version Control:** Git, GitHub, GitLab  
+**Development Tools:** VS Code, Postman, Figma, Chrome DevTools  
+**Testing:** Jest, Cypress, Unit & Integration Testing
+
+### 📊 Currently Exploring
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,bash" alt="Learning" />
+</div>
+
+**Cloud & DevOps:** Docker, Kubernetes, AWS, CI/CD Pipelines  
+**System Administration:** Bash Scripting, Linux, Server Management  
+**Emerging Tech:** Microservices, Serverless Architecture
+
+---
+
+## 🚀 Featured Projects
+
+### 🛠️ LazyCLI - Developer Efficiency Tool
+
+> A powerful, Bash-based command-line interface that simplifies your entire development and deployment workflow — from initializing projects to pushing code to GitHub — all unified in a single, intuitive CLI tool.
+
+**Key Features:**
+
+- 🚀 One-command project initialization
+- 📦 Automated dependency management
+- 🔄 Streamlined Git workflow automation
+- ⚡ Cross-platform compatibility
+
+🌐 [lazycli.xyz](https://lazycli.xyz/)  
+📦 [GitHub Repository](https://github.com/iammhador/lazycli)  
+⭐ **Impact:** Reducing development setup time by 80%
+
+<div align="center">
+  <a href="https://github.com/iammhador/lazycli">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iammhador&repo=lazycli&theme=tokyonight&hide_border=true" alt="LazyCLI" />
+  </a>
+</div>
+
+---
+
+### 📚 Git Logs - Dev Resource Hub
+
+> A comprehensive, open-source documentation website built with Next.js, TypeScript, Framer Motion, and Lucide Icons. This platform provides structured learning resources for modern web development across multiple programming topics and technologies.
+
+**Key Features:**
+
+- 📖 Comprehensive documentation system
+- 🎨 Interactive code examples
+- 📱 Responsive design architecture
+- 🌙 Dark/Light mode support
+
+🌐 [dev-logs-theta.vercel.app](https://dev-logs-theta.vercel.app/)  
+📦 [GitHub Repository](https://github.com/iammhador/dev-logs)  
+⭐ **Impact:** Easily learn and master complex concepts with interactive examples and clear explanations.
+
+<div align="center">
+  <a href="https://github.com/iammhador/dev-logs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iammhador&repo=dev-logs&theme=tokyonight&hide_border=true" alt="Git Logs" />
+  </a>
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iammhador&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammhador&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammhador&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammhador&theme=tokyo-night&bg_color=1a1b27&hide_border=true" alt="Contribution Graph" />
+</div>
+
+**📊 Quick Stats:**
+
+- 🔥 **500+ Commits** this year
+- 🌟 **25+ Repositories** created
+- 📚 **5+ Technical Articles** published
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+  <a href="https://iammhador.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+   <a href="https://linkedin.com/in/iammhador" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://dev.to/iammhador" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.TO" />
+  </a>
+  <a href="mailto:iammhador@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+**💬 Let's Connect!**  
+🤝 Open to collaborations, mentoring, and exciting project opportunities  
+📧 **Response Time:** Usually within 24 hours  
+🌍 **Timezone:** GMT+6 (Dhaka, Bangladesh)
+
+---
+
+## 📝 Latest Insights & Articles
+
+<!-- BLOG-POST-LIST:START -->
+
+### 🧠 LazyCLI – Automate Your Development Workflow
+
+**A powerful CLI tool to streamline repetitive development tasks and boost productivity**  
+🔗 [Explore LazyCLI on LinkedIn](https://www.linkedin.com/embed/feed/update/urn:li:share:7350010018722684928)
+
+### 🌐 Mastering Linux Network Namespaces: A Hands-On Guide with Bridges and Routing
+
+**Deep dive into Linux networking with practical examples and real-world implementations**  
+🔗 [Read Full Tutorial](https://iammhador.netlify.app/blog/blog-details/mastering-linux-network-namespaces)
+
+### ⚡ Understanding Time Complexity in Data Structures and Algorithms
+
+**Essential guide to analyzing algorithm efficiency and optimizing code performance**  
+🔗 [Learn More](https://iammhador.netlify.app/blog/blog-details/Understanding_Time_Complexity_In_Data_Structures_And_Algorithms)
+
+### 🚀 Speeding Up Your Next.js Development - A Guide to Using Turbopack and Bun
+
+**Supercharge your Next.js workflow with cutting-edge build tools and runtime optimization**  
+🔗 [Boost Your Development](https://iammhador.netlify.app/blog/blog-details/Speeding-Up-Your-Next.js-Development-A-Guide-to-Using-Turbopack-and-Bun)
+
+### 🌙 Embrace the Dark Side: Implementing Dark Mode in Next.js with Tailwind CSS
+
+**Complete guide to creating beautiful dark mode experiences with modern web technologies**  
+🔗 [Implement Dark Mode](https://iammhador.netlify.app/blog/blog-details/implementing-dark-mode-nextjs-tailwind-css)
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🏆 Achievements & Contributions
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammhador&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+### 🌟 Open Source Contributions
+
+- 🛠️ **LazyCLI** - Developer automation tool with 20+ stars
+- 🤝 **Community Projects** - Contributing to various open-source initiatives
+- 📚 **Knowledge Sharing** - Writing technical articles and comprehensive tutorials
+- 🎯 **Code Reviews** - Helping fellow developers improve their code quality
+- 🌱 **Mentoring** - Guiding junior developers in their learning journey
+
+---
+
+## 💰 Support My Open Source Work
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/iammhador" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://ko-fi.com/iammhador" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+</div>
+
+**☕ Your support helps me:**
+
+- 🔧 Maintain and improve open-source projects
+- 📚 Create more educational content
+- 🌱 Contribute to the developer community
+- ⚡ Build better tools for developers
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iammhador/iammhador/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
+
+<div align="center">
+  <h3>💫 "The best code is not just functional, but clean, maintainable, and scalable."</h3>
+  <p><strong>⭐️ From <a href="https://github.com/iammhador">iammhador</a> with ❤️ | Let's build something meaningful together! 🚀</strong></p>
+  <p><em>🌱 Driven by curiosity, long-term thinking, and purposeful craft</em></p>
+</div>
