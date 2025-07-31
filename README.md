@@ -10,6 +10,8 @@
 
 <img align="right" alt="Coding GIF" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
+<br/>
+
 👋 **Frontend-Driven Software Developer** with a deep passion for backend architecture and DevOps practices
 
 🚀 **My Philosophy:** Solving complex problems with simple and effective solutions while understanding the deeper fundamentals of how systems operate at scale.
