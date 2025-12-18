@@ -126,7 +126,7 @@
 ⭐ **Impact:** Easily learn and master complex concepts with interactive examples and clear explanations.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iammhador&repo=dev-logs&theme=nord&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iammhador&repo=dev-logs&bg_color=ffffff&hide_border=true" />
 </p>
 
 ---
