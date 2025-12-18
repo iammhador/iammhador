@@ -104,7 +104,7 @@
 
 <div align="center">
   <a href="https://github.com/iammhador/lazycli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iammhador&repo=lazycli&theme=tokyonight&hide_border=true" alt="LazyCLI" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iammhador&repo=lazycli&theme=graywhite&hide_border=true" alt="LazyCLI" />
   </a>
 </div>
 
