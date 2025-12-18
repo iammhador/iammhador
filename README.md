@@ -104,7 +104,7 @@
 
 <div align="center">
   <a href="https://github.com/iammhador/lazycli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iammhador&repo=lazycli&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&hide_border=true" alt="LazyCLI" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iammhador&repo=lazycli&theme=tokyonight&hide_border=true" alt="LazyCLI" />
   </a>
 </div>
 
@@ -126,7 +126,7 @@
 ⭐ **Impact:** Easily learn and master complex concepts with interactive examples and clear explanations.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iammhador&repo=dev-logs&bg_color=ffffff&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iammhador&repo=dev-logs&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -134,8 +134,8 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iammhador&show_icons=true&bg_color=ffffff&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammhador&layout=compact&langs_count=8&bg_color=ffffff&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iammhador&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammhador&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
